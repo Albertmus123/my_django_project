@@ -1,0 +1,1 @@
+web: gunicorn albertdjango.wsgi --log-file -
